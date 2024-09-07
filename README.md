@@ -1,5 +1,5 @@
 # dsolutiontech
-![Banner](https://github.com/user-attachments/assets/030a1be0-ef05-4dbc-9f0e-49073bcb7ac6)
+![terminal](https://github.com/user-attachments/assets/6275f069-052e-4964-84c1-2cce98448f12)
 ### About me
 * 👋 Hi, I’m Daren Wade A.K.A DsolutionTech
 * 👀 I’m interested in continuous learning
